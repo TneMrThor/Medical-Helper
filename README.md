@@ -1,7 +1,7 @@
 # Medical Helper
 ![](https://i.imgur.com/4wgKGyd.png)
 ____
-[Скачать автоматический установщик](https://github.com/TneMrThor/Medical-Helper/blob/main/AS%20Helper.exe?raw=true)
+[Скачать автоматический установщик](https://github.com/TneMrThor/Medical-Helper/blob/main/Medical%20Helper.exe?raw=true)
 
 [Скачать архив для ручной установки](https://github.com/TneMrThor/Medical-Helper/blob/main/AS%20Helper.zip?raw=true)
 ____
